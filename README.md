@@ -40,6 +40,8 @@ This application allows users to interact with a chatbot that answers questions 
    
 7. **Chat History**:
    - Chat history is saved in `chat_history.json` and can be viewed or cleared.
+  ## Run
+  streamlit run app.py
 
 ---
 
